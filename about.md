@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: about
+hide: true
 ---
 
 I am a scientist, communicator, reluctant fortran programmer, and cyclist living in Ann Arbor Michigan.
