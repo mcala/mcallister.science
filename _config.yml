@@ -3,7 +3,7 @@ description: Personal website for Andrew McAllister
 
 url: http://mcallister.science
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: :title/
 
 markdown: kramdown
 highlighter: rouge
