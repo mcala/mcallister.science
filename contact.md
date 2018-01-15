@@ -9,7 +9,7 @@ title: Contact Andrew
     <p class="intro"> Here's an easy way to contact me. I'll get back to you within two weeks. I purposely don't check my email often so that I can stay productive.</p>
     <p>If you want to send me an email without the middleman, email andrew@mcallister.science.</p>
   </div>
-  <form name="contact" netlify action="{{ /thanks | prepend:site.baseurl}}">
+  <form name="contact" netlify action="{{ '/thanks' | prepend:site.baseurl}}">
     <label for="name">Name</label>
     <input type="text" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
