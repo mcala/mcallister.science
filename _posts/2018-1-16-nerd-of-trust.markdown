@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Nerd of Trust: Reporting for Duty"
-date: 2018-01-15
+title: "Your Nerd of Trust"
+date: 2018-01-16
 tags: scicom
 ---
 
