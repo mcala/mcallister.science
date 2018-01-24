@@ -36,7 +36,7 @@ The final way to improve your computer security (that I’ll mention today) is t
 
 But what if someone gets that password! Then they know all your passwords! This is true, and password managers [are not un-hackable](https://blog.lastpass.com/2017/03/security-update-for-the-lastpass-extension.html/). But password managers all rely on the two-factor authentication that I mentioned above to help keep your passwords safe. Without **both** your “master” password and the code used to make your account, someone will have a very hard time getting into your account. The risk of using a password manager is offset by the fact that you have stronger, unique passwords on all of your accounts.
 
-Notice that, for the most part, I’m not recommending going out and getting antivirus software. Since the 90’s, both the operating system and the internet browsers that you use have gotten much better about stopping bad websites from infecting your computer and noticing immediately if they do. That money that is spent on antivirus software could be much better spent on a password manager.
+Notice that, for the most part, I’m not recommending going out and getting antivirus software. Since the 90’s, both the operating system and internet browsers gotten much better about stopping bad websites from infecting your computer and noticing immediately if they do. Of course they aren't perfect, but they get the job done most of the time. That money that is spent on antivirus software could be much better spent on a password manager.
 
 There are lots of other ways you can protect the information on your computers, from encryption to your wi-fi network. Let me know if you’re interested in learning more about this kind of stuff.
 
