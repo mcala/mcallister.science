@@ -156,6 +156,7 @@ POST STYLING
 	.featuredImage {
 		position: relative;
 		margin-top: 2rem;
+    text-align:center;
 
 		&:before {
 			background: white;
@@ -163,7 +164,7 @@ POST STYLING
 			display: block;
 			width: 100%;
 			height: 4em;
-			position: absolute;
+			position: relative;
 			top: -2em;
 			left: 0;
 			transform: skewY(-2deg);
