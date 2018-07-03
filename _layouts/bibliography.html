@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+  <h1 class="postTitle">{{ page.title }}</h1>
+  <p class="meta">Last Updated: {{ page.date | date: '%B %d, %Y' }}</p>
+  {{ content }}
+  {% bibliography --file {{ page.biblio }} %}

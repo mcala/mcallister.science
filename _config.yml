@@ -10,6 +10,12 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 
+collections:
+  bibs:
+    output: true
+    permalink: /:collection/:name
+
+
 navigation:
  - title: Home
    url: /index.html
@@ -25,3 +31,13 @@ social:
    email: andrew@mcallister.science
 
 google_analytics: "UA-112472855-1"
+
+scholar:
+  style: assets/apa.csl
+  locale: en
+  source: ./_bibliography
+  use_raw_bibtex_entry: true
+  sort_by: author
+  order: ascending
+  bibtex_filters:
+    - href
