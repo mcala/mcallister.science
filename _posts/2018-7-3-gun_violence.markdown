@@ -46,13 +46,13 @@ Check out some of these articles. If you see something you are interested in rea
 
 * FiveThirtyEight did a great job talking about how complicated the gun violence problem is and discussing possible solutions. [The Home Page for Their Gun Violence Feature](https://fivethirtyeight.com/features/gun-deaths/)
 * For some perspectives from actual gun owners, I found [this special issue of Texas Monthly](https://www.texasmonthly.com/issue/april-2016/) helpful 
-* [Ezra Kelin’s Podcast](https://www.vox.com/2018/3/13/17114764/gun-control-podcast-opinion) with Jennifer Carlson also focuses heavily on why gun owners feel strongly about owning guns
+* [Ezra Kelin’s Podcast](https://www.vox.com/2018/3/13/17114764/gun-control-podcast-opinion) with Jennifer Carlson is a great discussion about some of the values behind wanting to own a gun
 * I am by no means the first to point out that science can sometimes make political controversies worse. [Daniel Sarewitz’s How Science Makes Environmental Controversies Worse](https://www.sciencedirect.com/science/article/pii/S1462901104000620) is a great paper on this topic
 * One thing that I couldn’t quite fit into this article was the need for a national database about guns and violent crime. [This episode of the 99% Invisible Podcast](https://99percentinvisible.org/episode/nut-behind-wheel/) talks about that idea in detail
 * For a recent look at trying to understand how laws impact gun violence I’d recommend [What Do We Know About the Association Between Firearm Legislation and Firearm-Related Injuries](https://www.ncbi.nlm.nih.gov/pubmed/26905895)
 
 #### The Full List
-If you are *very* interested, here is a link to my full gun violence [bibliography](http://localhost:3000/bibs/gun-violence.html) . These are all the sources I’ve read while thinking about this problem (which started in a class). Remember, that if you see something you are interested in reading here, but can’t access the article without paying, send me a message and I will send it to you.
+If you are *very* interested, here is a link to my full gun violence [bibliography](http://mcallister.science/bibs/gun-violence) . These are all the sources I’ve read while thinking about this problem (which started in a class). Remember, that if you see something you are interested in reading here, but can’t access the article without paying, send me a message and I will send it to you.
 
 [^continuing_resolution]: Reading about the 1995-1996 government shutdown and debt ceiling limit reassures me that no matter how different things seem to be, they also don’t change all that much.
 [^specifically]: [Specifically, Secretary of Human Health and Services Alex Azar](https://www.politico.com/story/2018/02/15/alex-azar-cdc-gun-violence-research-414977). 
