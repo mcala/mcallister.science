@@ -30,8 +30,7 @@
       <meta content="{{ site.url }}/about/" property="article:author">
     {% endif %}
     {% if page.image %}
-      <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image">
-    {% endif %}
+      <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image"> {% endif %}
 
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary">
@@ -58,21 +57,21 @@
     <!-- Favicon -->
     <!--ORIGINAL    <link rel="icon" type="image/x-icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}" /> -->
     <!-- generics -->
-    <link rel="icon" href="/path/to/favicon-32.png" sizes="32x32">
-    <link rel="icon" href="/path/to/favicon-57.png" sizes="57x57">
-    <link rel="icon" href="/path/to/favicon-76.png" sizes="76x76">
-    <link rel="icon" href="/path/to/favicon-96.png" sizes="96x96">
-    <link rel="icon" href="/path/to/favicon-128.png" sizes="128x128">
-    <link rel="icon" href="/path/to/favicon-228.png" sizes="228x228">
+    <link rel="icon" href="{{ site.url }}/assets/img/favicon/favicon32.png" sizes="32x32">
+    <link rel="icon" href="{{ site.url }}/assets/img/favicon/favicon57.png" sizes="57x57">
+    <link rel="icon" href="{{ site.url }}/assets/img/favicon/favicon76.png" sizes="76x76">
+    <link rel="icon" href="{{ site.url }}/assets/img/favicon/favicon96.png" sizes="96x96">
+    <link rel="icon" href="{{ site.url }}/assets/img/favicon/favicon128.png" sizes="128x128">
+    <link rel="icon" href="{{ site.url }}/assets/img/favicon/favicon228.png" sizes="228x228">
     <!-- Android -->
-    <link rel="shortcut icon" href="/path/to/favicon-196.png" sizes="196x196">
+    <link rel="shortcut icon" href="{{ site.url }}/assets/img/favicon/favicon196.png" sizes="196x196">
     <!-- iOS -->
-    <link rel="apple-touch-icon" href="/path/to/favicon-120.png" sizes="120x120">
-    <link rel="apple-touch-icon"  href="path/to/favicon-152.png" sizes="152x152">
-    <link rel="apple-touch-icon" href="path/to/favicon-180.png" sizes="180x180">
+    <link rel="apple-touch-icon" href="{{ site.url }}/assets/img/favicon/favicon120.png" sizes="120x120">
+    <link rel="apple-touch-icon"  href="{{ site.url }}/assets/img/favicon/favicon152.png" sizes="152x152">
+    <link rel="apple-touch-icon" href="{{ site.url }}/assets/img/favicon/favicon180.png" sizes="180x180">
     <!-- windows -->
     <meta name="msapplication-TileColor" content="#FFFFFF">
-    <meta name="msapplication-TileImage" content="/path/to/favicon-144.png">
+    <meta name="msapplication-TileImage" content="{{ site.url }}/assets/img/favicon/favicon144.png">
 
     <!-- Come and get me RSS readers -->
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
