@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Science Isn't Going to Deliver Perfect Gun Legislation"
-date: 2018-07-09
+date: 2018-07-10
 tags: policy
 ---
 
