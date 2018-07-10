@@ -31,6 +31,8 @@
     {% endif %}
     {% if page.image %}
       <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image">
+    {% else if page.fbimg %}
+    <meta content="{{ site.url }}/assets/img/favicon/{{ page.fbimg }}" property="og:image"> 
     {% else %}
       <meta content="{{ site.url }}/assets/img/favicon/favicon.png" property="og:image"> 
     {% endif %}
