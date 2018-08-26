@@ -2,6 +2,7 @@
 layout: post
 title: "Your Nerd of Trust"
 date: 2018-01-16
+fbimg: 'favicon228.png'
 tags: scicom
 ---
 

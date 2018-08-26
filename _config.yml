@@ -1,5 +1,5 @@
-title: Andrew McAllister 
-description: Personal website for Andrew McAllister
+title: Andrew McAllister
+description: Andrew McAllister's personal website.
 
 url: http://mcallister.science
 paginate_path: "blog/page:num/"
@@ -27,7 +27,7 @@ navigation:
 social:
    github: mcala
    twitter: McAllisterSci
-   facebook: 
+   facebook: mcallistersci
    email: andrew@mcallister.science
 
 google_analytics: "UA-112472855-1"
