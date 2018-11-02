@@ -1,1 +1,1 @@
-This is my personal website using Jekyll and the [Long Haul](http://github.com/brianmaierjr/long-haul) theme by [iBrian Maier](https://twitter.com/brianmaierjr). I've done some of my own customizations, but nothing very extensive. Check out the original theme if you like the look.
+This is my personal website using Jekyll and the [Long Haul](http://github.com/brianmaierjr/long-haul) theme by [Brian Maier](https://twitter.com/brianmaierjr). I've done some of my own customizations, but nothing very extensive. Check out the original theme if you like the look.
