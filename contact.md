@@ -8,6 +8,7 @@ title: Contact Andrew
   <div class="contactContent">
     <p class="intro"> Here's an easy way to contact me. I'll try to get back to you within two weeks. I purposely don't check my email often so that I can stay productive.</p>
     <p>If you want to send me an email without the middleman, email andrew@mcallister.science.</p>
+    <p>If you use PGP, my public key can be found <a href="{{ '/assets/Andrew_McAllister_Public.txt' | preprend:sitebaseurl }}">here.</a></p>
   </div>
   <form name="contact" netlify action="{{ '/thanks' | prepend:site.baseurl}}" netlify-honeypot="bot-field" netlify>
     <label for="name">Name</label>
