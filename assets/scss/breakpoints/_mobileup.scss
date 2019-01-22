@@ -220,31 +220,23 @@ POST STYLING
 
 	blockquote {
 		clear: both;
-		margin: 2.5em 0;
+		margin: 2.5em ;
 		padding: 0;
 		line-height: 1.8;
+    font-size: 90%;
 		position: relative;
+    border-left:5px solid $primary-color;
 
 		&:before {
 			content: "";
 			position: absolute;
 			top: -1.25em;
-			background: $background-color;
-			display: block;
-			height: 2px;
-			width: 150px;
-			left: calc(50% - 75px);
 		}
 
 		&:after {
 			content: "";
 			position: absolute;
 			bottom: -1.25em;
-			background: $background-color;
-			display: block;
-			height: 2px;
-			width: 150px;
-			left: calc(50% - 75px);
 		}
 	}
 
@@ -491,4 +483,3 @@ POST LIST STYLING
 		}
 	}
 }
-
